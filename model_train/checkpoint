@@ -1,0 +1,2 @@
+model_checkpoint_path: "/dir/model_train.ckpt"
+all_model_checkpoint_paths: "/dir/model_train.ckpt"
